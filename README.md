@@ -1,12 +1,12 @@
-## 个人主页
+# 个人主页
 
 基于 Vue 的个人主页，刚接触 Vue 不太会用各种插件，代码有点难看，大佬们见谅
 
-### Demo
+## 👀 Demo
 
-- [预览](https://rusin7.com)
+- [预览](https://www.rusin7.com)
 
-### 修改
+## ⭐自定义
 
 图标默认采用 Font Awesome，如需修改图标，请前往 [Font Awesome](https://fa6.dashgame.com/) 复制图标
 
@@ -14,15 +14,15 @@
 - 修改网站列表 **`src/config/site.json`** 文件中的内容值即可。
 - 修改网站信息 **`.env`** 文件中的内容值即可。
 
-### 部署
+## 部署
 
-* **安装** [node.js](https://nodejs.org/zh-cn/) **环境**。
+- **安装** [node.js](https://nodejs.org/zh-cn/) **环境**。
 
   > node > 16.16.0
   > npm > 8.15.0
 
-* 然后以 **管理员权限** 运行 `cmd` 终端，并 `cd` 到 项目根目录
-* 在 `终端` 中输入：
+- 然后以 **管理员权限** 运行 `cmd` 终端，并 `cd` 到 项目根目录
+- 在终端中输入：
 
 ```bash
 # 安装依赖
@@ -46,3 +46,9 @@ npm run build
 [新建仓库](https://github.com/new)，上传 dist 目录中的所有内容，[Settings → Pages](https://github.com/<username>/<reponame>/settings/pages) $\to$ Build and deployment $\to$ Branch $\to$ main $\to$ Save，在 https://\<username\>.github.io/\<reponame\> 访问。
 
 ![图片炸了](https://cloudflare-imgbed-1.pages.dev/file/1774175836586_%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-22%20183633.png)
+
+## Netlify 部署
+
+> 点击后自动部署并创建仓库
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ruying-suixing/go)
