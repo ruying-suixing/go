@@ -153,5 +153,10 @@
     "name": "代码快照2",
     "url": "https://codeimg.rusin7.com",
     "icon": "fa-regular fa-camera"
+  },
+  {
+    "name": "提问的智慧",
+    "url": "https://smartask.rusin7.com",
+    "icon": "fa-regular fa-circle-question"
   }
 ]
