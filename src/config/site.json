@@ -10,6 +10,11 @@
     "icon": "fa fa-book"
   },
   {
+    "name": "OJ",
+    "url": "https://oj.rusin.top",
+    "icon": "fa-solid fa-code"
+  },
+  {
     "name": "论坛",
     "url": "https://zjsh.freeflarum.com",
     "icon": "fa fa-comment-dots"
@@ -120,7 +125,12 @@
     "icon": "fa-solid fa-envelope-open-text"
   },
   {
-    "name": "剪贴板",
+    "name": "云剪贴板",
+    "url": "https://cp.rusin7.com",
+    "icon": "fa fa-paste"
+  },
+  {
+    "name": "云剪贴板（旧版）",
     "url": "https://paste.rusin.top",
     "icon": "fa-solid fa-paste"
   },
@@ -140,11 +150,6 @@
     "icon": "fa-solid fa-cloud-arrow-down"
   },
   {
-    "name": "OJ",
-    "url": "https://oj.rusin.top",
-    "icon": "fa-solid fa-code"
-  },
-  {
     "name": "代码快照1",
     "url": "https://chalkist.rusin7.com",
     "icon": "fa-regular fa-camera"
@@ -158,5 +163,15 @@
     "name": "提问的智慧",
     "url": "https://smartask.rusin7.com",
     "icon": "fa-regular fa-circle-question"
+  },
+  {
+    "name": "提问的智慧",
+    "url": "https://smartask.rusin7.com",
+    "icon": "fa-regular fa-circle-question"
+  },
+  {
+    "name": "封面2",
+    "url": "https://cover2.rusin7.com",
+    "icon": "fa fa-image"
   }
 ]
